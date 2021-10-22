@@ -1,0 +1,9 @@
+[theme]
+base="light"
+primaryColor="#3125de"
+secondaryBackgroundColor="#94d4ef"
+textColor="#0d0d0e"
+font="serif"
+
+[server]
+port=9988
